@@ -2,6 +2,12 @@ import adapter from '@sveltejs/adapter-static';
 import {
     vitePreprocess
 } from '@sveltejs/kit/vite';
+import { mdsvex } from 'mdsvex';
+import rehypeExternalLinks from 'rehype-external-links';
+import rehypeSlug from 'rehype-slug';
+import rehypeAutolinkHeadings from 'rehype-autolink-headings';
+
+const extensions = ['.svelte', '.md'];
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
