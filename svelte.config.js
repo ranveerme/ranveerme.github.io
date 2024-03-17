@@ -1,7 +1,7 @@
 import adapter from '@sveltejs/adapter-static';
 import {
     vitePreprocess
-} from '@sveltejs/kit/vite';
+} from '@sveltejs/vite-plugin-svelte';
 import { mdsvex } from 'mdsvex';
 import rehypeExternalLinks from 'rehype-external-links';
 import rehypeSlug from 'rehype-slug';
@@ -11,6 +11,7 @@ const extensions = ['.svelte', '.md'];
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
+	extensions: extensions,
     preprocess: [
         vitePreprocess(),
         mdsvex({
@@ -38,6 +39,9 @@ const config = {
 
     kit: {
         adapter: adapter(),
+		prerender: {
+			handleHttpError: 'warn'
+		},
         paths: {
             base: process.env.NODE_ENV === 'production' ? '/ranveerme.github.io' : '',
         }
