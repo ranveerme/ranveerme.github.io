@@ -27,7 +27,7 @@
           <title>How to Customize this Template</title>
           <description>How to customize what you're seeing here and make it your own.</description>
           <link>https://sveltekit-static-blog-template.vercel.app//customization</link>
-          <pubDate>Sat, 22 Apr 2023 22:55:27 +0100</pubDate>
+          <pubDate>Sun, 23 Apr 2023 00:55:27 +0300</pubDate>
           <category>Documentation</category>
           <content:encoded><![CDATA[
             <div style="margin: 50px 0; font-style: italic;">
@@ -50,7 +50,7 @@
           <title>Project Structure</title>
           <description>How code and structure are organized.</description>
           <link>https://sveltekit-static-blog-template.vercel.app//project-structure</link>
-          <pubDate>Sat, 22 Apr 2023 22:55:21 +0100</pubDate>
+          <pubDate>Sun, 23 Apr 2023 00:55:21 +0300</pubDate>
           <category>Documentation</category>
           <content:encoded><![CDATA[
             <div style="margin: 50px 0; font-style: italic;">
@@ -76,7 +76,7 @@
           <title>How Blog Posts Work</title>
           <description>How to manage existing blog posts and create new ones</description>
           <link>https://sveltekit-static-blog-template.vercel.app//blog-posts</link>
-          <pubDate>Sat, 22 Apr 2023 22:55:15 +0100</pubDate>
+          <pubDate>Sun, 23 Apr 2023 00:55:15 +0300</pubDate>
           <category>Documentation</category>
           <content:encoded><![CDATA[
             <div style="margin: 50px 0; font-style: italic;">
