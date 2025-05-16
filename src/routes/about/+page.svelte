@@ -7,11 +7,12 @@
   import Video from '$lib/components/video.svelte';
   import CodeCopy from '$lib/components/code_copy.svelte';
   import InfoBox from '$lib/components/info_box.svelte';
+
+  /*<!-- :QWER IMPORTS: -->*/
 </script>
 
 <Post>
   <article slot="post_content">
-    <h2 id="ranveer-singh"><a href="#ranveer-singh">🎉 Ranveer Singh</a></h2>
-    <p>TODO: Ranveer...</p>
+    <!-- :QWER CONTENT: -->
   </article>
 </Post>
