@@ -1,5 +1,5 @@
 ---
-title: Hello QWER 👋
+title: Hello Ranveer 👋
 description: Start using QWER - Simply Awesome Blog Starter. Built using SvelteKit and Love.
 summary: 🎉 Let's start a brand new awesome blog...
 published: '2022-09-16T22:00:00.000+08:00'
