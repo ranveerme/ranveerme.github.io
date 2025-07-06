@@ -34,7 +34,7 @@ export const siteConfig: Site.Config = {
     website: 'https://ranveer.me',
     github: 'https://github.com/ranveerme',
     email: 'info@ranveer.me',
-    bio: `Need to write <br/> something`,
+    bio: `Economics student <br/> passionate about Politics, <br/> Venture Capital & Private Equity`,
   },
 };
 
