@@ -38,7 +38,8 @@ Create a production version of ur blog:
 pnpm build
 ```
 
-u can preview the built app with `pnpm preview`.
+u can preview the built app with `pnpm preview`.  again
+u can preview the built app with `pnpm preview`.  again
 
 ## Documentation
 
