@@ -40,6 +40,7 @@ pnpm build
 
 u can preview the built app with `pnpm preview`.  again
 u can preview the built app with `pnpm preview`.  again
+u can preview the built app with `pnpm preview`.  again
 
 ## Documentation
 
