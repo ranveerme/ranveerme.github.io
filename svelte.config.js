@@ -25,7 +25,7 @@ export default {
         // @ts-expect-error adapter types
         ? adapter[process.env.ADAPTER.toLowerCase()]
         : Object.keys(process.env).some(key => ['NETLIFY', 'VERCEL'].includes(key))
-          ? adapter.auto
+          ? adapter.node
           : adapter.static,
     csp: {
       directives: {
