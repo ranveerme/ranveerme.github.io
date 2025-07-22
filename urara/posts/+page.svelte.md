@@ -9,7 +9,7 @@ tags:
   - 'Urara'
 ---
 
-Welcome to Urara! this article contains some basic operations to help you quickly get started.
+Welcome to Ranveer's blog! this article contains some basic operations to help you quickly get started.
 
 ## Developing
 
